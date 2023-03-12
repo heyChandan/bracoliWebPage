@@ -1,0 +1,23 @@
+h1{
+ 	color: red;
+	font-size: 100px;
+}
+
+/*Class selector*/
+
+.bacon{
+	background-color: green;
+}
+
+.broccoli{
+	background-color: red;
+}
+
+.round{
+	border-radius: 100%;
+}
+
+/*Pseudo class selector*/
+img:hover{
+	background-color: gold;
+}
